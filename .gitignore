@@ -1,0 +1,9 @@
+*.iws
+*.ipr
+*.iml
+.idea
+bin
+.settings
+.classpath
+.project
+chromedriver*
